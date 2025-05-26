@@ -5,4 +5,3 @@ scikit-learn
 matplotlib
 seaborn
 statsmodels
-tensorflow-cpu==2.11.0
