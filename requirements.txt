@@ -1,8 +1,10 @@
+Here’s a ready-to-use requirements.txt based on the libraries your app likely needs:
+
 streamlit
 pandas
 numpy
-matplotlib
 scikit-learn
-tensorflow
+matplotlib
+seaborn
 statsmodels
-joblib
+tensorflow 
